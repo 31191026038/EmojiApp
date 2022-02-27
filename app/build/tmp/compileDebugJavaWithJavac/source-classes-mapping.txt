@@ -1,0 +1,7 @@
+khiemhg1202/com/app_emoji/BuildConfig.java
+ khiemhg1202.com.app_emoji.BuildConfig
+khiemhg1202/com/app_emoji/EmojiAdapter.java
+ khiemhg1202.com.app_emoji.EmojiAdapter
+khiemhg1202/com/app_emoji/MainActivity.java
+ khiemhg1202.com.app_emoji.MainActivity
+ khiemhg1202.com.app_emoji.MainActivity$1
